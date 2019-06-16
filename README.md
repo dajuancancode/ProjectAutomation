@@ -9,7 +9,9 @@ This bash script and express server that will help to automate the process it ta
 - Add bin folder to path
 - Create Github application 
 - Create .env file and add Github Client ID and Secret
+- Make changes to script so that it fits in your workflow
 - Run Bash Script
+- Sit back and start coding 😎
 
 # Author
 
